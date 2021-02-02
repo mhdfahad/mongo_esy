@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "Mohammed Fahad",
+    "email": "mhdfahad18@gmail.com.com"
+  },
+  "dependencies": {
+    "mongodb": "^3.6.2"
+  },
+  "description": "Mongodb Native - Promisified, Simplified",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "mongo_esy",
+  "keywords": ["mongo_esy"],
+  "version": "1.12.7",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/mhdfahad/mongo_esy.git"
+  }
+}
